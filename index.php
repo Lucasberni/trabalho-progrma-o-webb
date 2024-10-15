@@ -2,7 +2,7 @@
 <html lang = "pt-br">
 <head>
 	<meta charset="UTF-8">
-	<title>Cinepanda</title>
+	<title>Cinepanda gay</title>
 	<link rel="stylesheet" href="style.css">
 </head>
 <body>
