@@ -16,7 +16,7 @@
 			  <a href="" class="menu-item">Glossário</a>
 		</div>
 		</nav>
-		<div class="header-title">Cinepanda</div>
+		<div class="header-title">CINEPANDA</div>
 	</header>
 </body>
 </html>
