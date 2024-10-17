@@ -9,6 +9,7 @@ body {
     align-items: center;
     padding: 15px 20px;
     position: relative;
+    border-radius: 10px;
 }
 .header-title {
     font-size: 60px;
