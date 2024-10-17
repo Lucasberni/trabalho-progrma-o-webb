@@ -11,7 +11,7 @@ body {
     position: relative;
 }
 .header-title {
-    font-size: 35px;
+    font-size: 40px;
     font-weight: bold;
     color: #ededf5;
     position: absolute;
@@ -25,7 +25,7 @@ body {
     align-items: center;
 }
 .menu-item {
-    font-size: 16px;
+    font-size: 18px;
     color: #ededf5;
     text-decoration: none;
 }
