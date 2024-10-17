@@ -8,31 +8,14 @@
 </head>
 <body>
 	<h1>Cinepanda</h1>
-	<header>
-		<nav>
-		  <ul>
-			<li>
-			  <a href="">
-				<p>Home</p>
-			  </a>
-			</li>
-			<li>
-			  <a href="">
-				<p>Em cartaz</p>
-			  </a>
-			</li>
-			<li>
-			  <a href="">
-				<p>Contato</p>
-			  </a>
-			</li>
-			<li>
-			  <a href="">
-				<p>Descrição</p>
-			  </a>
-			</li>
-		  </ul>
+	<header class="header">
+		<nav class="menu">
+			  <a href="" class="menu-item">Home</a>
+			  <a href="" class="menu-item">Em cartaz</a>
+			  <a href="" class="menu-item">Contato</a>
+			  <a href="" class="menu-item">Glossário</a>
 		</nav>
+		<div class="header-title">Cinepanda</div>
 	</header>
 </body>
 </html>
