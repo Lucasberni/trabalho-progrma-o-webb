@@ -9,22 +9,33 @@ body {
     justify-content: center;
     align-items: center;
     padding: 15px 20px;
+    position: relative;
 }
 .header-title {
     font-size: 24px;
     font-weight: bold;
     color: #dc143c;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
 }
 .menu {
     display: flex;
-    gap:  20px;
-    position: absolute;
-    left: 20px;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
 }
 .menu-item {
     font-size: 14px;
     color: #1d2228;
     text-decoration: none;
+}
+.logo {
+    width: 30px;
+}
+.menu-right {
+    display: flex;
+    gap: 20px;
 }
 .menu-item:hover {
     text-decoration: underline;
