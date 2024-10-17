@@ -25,13 +25,13 @@ body {
     align-items: center;
 }
 .menu-item {
-    font-size: 14px;
+    font-size: 16px;
     color: #ededf5;
     text-decoration: none;
 }
 .logo {
-    width: 30px;
-    height: 30px;
+    width: 60px;
+    height: 60px;
 }
 .menu-right {
     display: flex;
