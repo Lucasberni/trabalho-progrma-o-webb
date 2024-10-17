@@ -7,7 +7,6 @@
 	<link rel="stylesheet" href="style.css">
 </head>
 <body>
-	<h1>Cinepanda</h1>
 	<header class="header">
 		<nav class="menu">
 			  <a href="" class="menu-item">Home</a>
