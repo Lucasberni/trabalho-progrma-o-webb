@@ -20,11 +20,11 @@
 		<div class="header-title">CINEPANDA</div>
 	</header>
 	<div class="banner-container">
-		<img src="templatepanda.png" alt="imagem template" class="banner-image">
-		<div class="banner-text">
-			<h1>Bem vindo ao Cinepanda!</h1>
-			<p>Descrição:</p>
-		</div>
-	</div>
+        <img src="templatepanda.png" alt="Imagem Panda" class="banner-image">
+        <div class="banner-text">
+            <h1>Bem-vindo ao Cinepanda</h1>
+            <p>Descrição do cinema: Aqui você pode escrever a história ou os destaques do Cinepanda.</p>
+        </div>
+    </div>
 </body>
 </html>
