@@ -12,7 +12,7 @@
 			<img src="cinepanda.png" alt="Logo Cinepanda" class="logo">
 		<div class="menu-right">
 			  <a href="" class="menu-item">Home</a>
-			  <a href="" class="menu-item">Em cartaz</a>
+			  <a href="filmes.php" class="menu-item">Em cartaz</a>
 			  <a href="" class="menu-item">Contato</a>
 			  <a href="" class="menu-item">Glossário</a>
 		</div>
