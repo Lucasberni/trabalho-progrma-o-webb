@@ -70,9 +70,3 @@ body {
     font-size: 20px;
     margin-top: 10px;
 }
-@media (max-widht: 768px) {
-    .menu {
-        display: none;
-    }
-}
-
