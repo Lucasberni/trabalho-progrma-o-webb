@@ -1,7 +1,6 @@
 body {
     font-family: Calibri;
     margin: 0;
-    background-color: #ededf5;
 }
 .header {
     background-color: #dc143c;
@@ -31,6 +30,9 @@ body {
     color: #ededf5;
     text-decoration: none;
 }
+.menu-item:hover {
+    text-decoration: underline;
+}
 .logo {
     width: 80px;
     height: 80px;
@@ -40,33 +42,32 @@ body {
     display: flex;
     gap: 20px;
 }
-.menu-item:hover {
-    text-decoration: underline;
-}
-.banner-container{
+
+/* Estilos do banner com o panda */
+.banner-container {
     position: relative;
     text-align: center;
-    color: #ededf5;
+    color: white;
 }
-.banner-image{
+.banner-image {
     width: 100%;
     height: auto;
 }
-.banner-text{
+.banner-text {
     position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    background-color: rgba(0, 0, 0, 0.6);
+    background-color: rgba(0, 0, 0, 0.6); /* Fundo cinza translúcido */
     padding: 20px;
     border-radius: 10px;
-    color: #ededf5;
+    color: #ffffff;
 }
-.banner-text h1{
+.banner-text h1 {
     font-size: 50px;
     margin: 0;
 }
-.banner-text p{
+.banner-text p {
     font-size: 20px;
     margin-top: 10px;
 }
