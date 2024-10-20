@@ -43,6 +43,33 @@ body {
 .menu-item:hover {
     text-decoration: underline;
 }
+.banner-container{
+    position: relative;
+    text-align: center;
+    color: #ededf5;
+}
+.banner-image{
+    width: 100%;
+    height: auto;
+}
+.banner-text{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: rgba(0, 0, 0, 0.6);
+    padding: 20px;
+    border-radius: 10px;
+    color: #ededf5;
+}
+.banner-text h1{
+    font-size: 50px;
+    margin: 0;
+}
+.banner-text p{
+    font-size: 20px;
+    margin-top: 10px;
+}
 @media (max-widht: 768px) {
     .menu {
         display: none;
