@@ -19,5 +19,12 @@
 		</nav>
 		<div class="header-title">CINEPANDA</div>
 	</header>
+	<div class="banner-container">
+		<img src="templatepanda.png" alt="imagem template" class="banner-image">
+		<div class="banner-text">
+			<h1>Bem vindo ao Cinepanda!</h1>
+			<p>Descrição:</p>
+		</div>
+	</div>
 </body>
 </html>
